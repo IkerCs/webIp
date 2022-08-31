@@ -1,0 +1,13 @@
+{
+  "name": "web-ip",
+  "version": "0.0.1",
+  "description": "Simple way to get any website IP",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
